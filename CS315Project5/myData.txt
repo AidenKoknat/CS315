@@ -1,0 +1,11 @@
+Family 1 Husband 1 Wife 2 Child 3 Child 4
+Relate 1 4
+Relate 1 9
+Family 2 Husband 3 Wife 4 Child 9
+Family 5 Husband 0 Wife 3 Child 1
+Family 9 Husband 6 Wife 0 Child 8 Child 11 Child 3
+Family 10 Husband 22 Wife 5 Child 12 Child 15
+Family 3 Husband 5 Wife 30 Child 5
+Family 30 Wife 89 Child 66
+Relate 30 66
+quit

@@ -1,0 +1,11 @@
+Family 1 has husband 1, wife 2, and children 3 4.
+Relation: person 1 -> family 1 -> person 4
+Relation: person 1 and 9 are not related.
+Family 2 has husband 3, wife 4, and children 9.
+Family 5 has husband 0 , wife 3, and children 1.
+	Child 3 is already parented.
+Family 10 has husband 22, wife 5, and children 12 15.
+Family 3 has husband 0 , wife 30, and children 5.
+Family 30 has husband 0 , wife 89, and children 66.
+Relation: person 30 and 66 are not related.
+Ending application.

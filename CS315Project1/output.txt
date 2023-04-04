@@ -1,0 +1,107 @@
+
+Train Switching!
+----------------
+Train 3 donated it's front car to Train 0!
+Value of Train 0: 98
+Value of Train 3: 90
+Train 4 donated it's front car to Train 1!
+Value of Train 1: 98
+Value of Train 4: 90
+Train 0 donated it's front car to Train 0!
+Value of Train 0: 106
+Value of Train 0: 105
+Train 0 donated it's rear car to Train 4!
+Value of Train 0: 105
+Value of Train 0: 70
+Train 2 donated it's front car to Train 1!
+Value of Train 1: 106
+Value of Train 2: 90
+Train 1 donated it's front car to Train 2!
+Value of Train 2: 96
+Value of Train 1: 105
+Train 3 donated it's front car to Train 2!
+Value of Train 2: 110
+Value of Train 3: 88
+Train 1 donated it's rear car to Train 3!
+Value of Train 1: 105
+Value of Train 1: 70
+Train 1 donated it's rear car to Train 2!
+Value of Train 1: 70
+Value of Train 1: 46
+Train 4 donated it's rear car to Train 2!
+Value of Train 4: 126
+Value of Train 4: 90
+Train 3 donated it's rear car to Train 2!
+Value of Train 3: 118
+Value of Train 3: 88
+Train 2 donated it's front car to Train 3!
+Value of Train 3: 98
+Value of Train 2: 262
+Train 2 donated it's rear car to Train 1!
+Value of Train 2: 262
+Value of Train 2: 208
+Train 4 donated it's rear car to Train 3!
+Value of Train 4: 90
+Value of Train 4: 65
+Train 4 donated it's rear car to Train 4!
+Value of Train 4: 90
+Value of Train 4: 65
+Train 1 donated it's front car to Train 3!
+Value of Train 3: 141
+Value of Train 1: 81
+Train 0 donated it's rear car to Train 4!
+Value of Train 0: 70
+Value of Train 0: 46
+Train 0 donated it's front car to Train 4!
+Value of Train 4: 96
+Value of Train 0: 45
+Train 1 donated it's rear car to Train 4!
+Value of Train 1: 81
+Value of Train 1: 61
+Train 0 donated it's rear car to Train 1!
+Value of Train 0: 45
+Value of Train 0: 33
+Train 4 donated it's rear car to Train 2!
+Value of Train 4: 138
+Value of Train 4: 103
+Train 4 donated it's front car to Train 2!
+Value of Train 2: 272
+Value of Train 4: 102
+Train 2 donated it's rear car to Train 0!
+Value of Train 2: 272
+Value of Train 2: 212
+Train 1 donated it's rear car to Train 4!
+Value of Train 1: 81
+Value of Train 1: 61
+Train 1 donated it's rear car to Train 4!
+Value of Train 1: 61
+Value of Train 1: 49
+Train 1 donated it's front car to Train 3!
+Value of Train 3: 149
+Value of Train 1: 48
+Train 1 donated it's front car to Train 3!
+Value of Train 3: 167
+Value of Train 1: 46
+Train 3 donated it's front car to Train 0!
+Value of Train 0: 67
+Value of Train 3: 165
+Train 0 donated it's front car to Train 2!
+Value of Train 2: 232
+Value of Train 0: 65
+Train 2 donated it's rear car to Train 4!
+Value of Train 2: 232
+Value of Train 2: 182
+Train 0 donated it's front car to Train 4!
+Value of Train 4: 211
+Value of Train 0: 64
+Train 4 donated it's front car to Train 0!
+Value of Train 0: 68
+Value of Train 4: 210
+Train 3 donated it's front car to Train 2!
+Value of Train 2: 192
+Value of Train 3: 164
+Train 1 donated it's front car to Train 4!
+Value of Train 4: 237
+Value of Train 1: 0
+Train 1 has no cars left!
+Train with highest value: Train 4!
